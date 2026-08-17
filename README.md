@@ -1,5 +1,13 @@
 # HW05 — JavaScript Fundamentals
 
+**Author: Jorge Fontalvo**
+
+**GitHub username: jfontx**
+
+**Github deployed page link: https://dsaw-2026-2.github.io/hw05-javascript-fundamentals-jfontx/**
+
+
+
 **Week 5 · DSAW · Universidad de La Sabana**
 
 ## Objective
@@ -45,3 +53,5 @@ The pipeline will check:
 - ✅ 2 interactive behaviors, keyboard shortcut, no libraries (reviewed by Claude)
 
 > **Submission rule:** If it is not deployed and public, it cannot be graded.
+
+
